@@ -1,5 +1,5 @@
-# COVID-19-Mental-Health-Impact
-Deep Analysis of the Pandemic Impact on People's Mental Health (US and Spain)
+# COVID-19-Personality
+Deep Analysis of the Pandemic Impact on People's Personality Traits (US and Spain)
 
 ## Dataset
 The released dataset contains approximately ~800 thousand tweets located in the United States during January 2021 (Christmas' COVID wave). This dataset is avaliable for the community to use it and analyze it. 
